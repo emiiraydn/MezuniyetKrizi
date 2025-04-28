@@ -8,11 +8,15 @@
 Bu proje, yenilenebilir enerji kaynaklarının iklim değişikliğiyle mücadeledeki rolünü anlatmak amacıyla oluşturulmuştur.  
 Güneş, rüzgar, hidroelektrik, jeotermal ve biyokütle gibi kaynakların çevresel katkıları ve sera gazı emisyonlarının azaltılmasındaki önemine odaklanılmaktadır.
 
+---
+
 **Site Özellikleri:**
 - Modern ve duyarlı (responsive) tasarım
 - Basit ve kullanıcı dostu arayüz
 - Temiz kod yapısı
 - Görsel destekli içerikler
+
+---
 
 ## 🌍 İçerik Başlıkları
 - **Yenilenebilir Enerji Nedir?**
@@ -27,14 +31,6 @@ Güneş, rüzgar, hidroelektrik, jeotermal ve biyokütle gibi kaynakların çevr
 ## 🛠️ Kullanılan Teknolojiler
 - **HTML5** – Yapısal iskelet
 - **CSS3** – Stil ve düzenleme
----
-
-## 🎨 Önerilen Eklentiler (VSCode için)
-| Eklenti | Açıklama |
-|:-------|:---------|
-| Live Server | Canlı tarayıcı önizlemesi sağlar |
-| Prettier | Kodları otomatik hizalar ve güzelleştirir |
-| Auto Rename Tag | HTML etiketlerini düzenlerken otomatik kapatır |
 
 ---
 
