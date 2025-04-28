@@ -4,7 +4,7 @@ Proje Hakkında: Bu proje, yenilenebilir enerji kaynaklarının iklim değişikl
 
 Site, kullanıcı dostu bir arayüz ile bilgi sunacak, infografikler ve görsellerle desteklenecektir.
 
-İçerik Başlıkları
+İçerik Başlıkları:
 Yenilenebilir Enerji Nedir?
 
 İklim Değişikliği ve Nedenleri
@@ -17,7 +17,7 @@ Dünya Genelinden Başarılı Uygulamalar
 
 Gelecek İçin Öneriler
 
-Kaynaklar
+Kaynaklar:
 
 Kullanılan Teknolojiler
 HTML – Yapılandırma
